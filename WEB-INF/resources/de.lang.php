@@ -337,7 +337,7 @@ $i18n_key_words = array(
 // "delete" and "do not delete".
 // The settings tells whether we are deleting invoiced items when deleting an invoice.
 // If we select "do not delete" then the items stay, and can be included in another invoice.
-'form.invoice.invoice_entries' => 'Rechnungseintrag',
+'form.invoice.invoice_entries' => 'Zugehörige Zeiteinträge',
 
 // Charts form. See example at https://timetracker.anuko.com/charts.php
 'form.charts.interval' => 'Zeitraum',
@@ -363,7 +363,7 @@ $i18n_key_words = array(
 
 // Client delete form. See example at https://timetracker.anuko.com/client_delete.php
 'form.client.client_to_delete' => 'Zu löschender Kunde',
-'form.client.client_entries' => 'Kundeneintrag',
+'form.client.client_entries' => 'Zugehörige Zeiteinträge',
 
 // Clients form. See example at https://timetracker.anuko.com/clients.php
 'form.clients.active_clients' => 'Aktive Kunden',
